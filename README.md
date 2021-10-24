@@ -1,6 +1,6 @@
 # PRiR Całkowanie i symulator
-Przykład całki:
-![alt text](https://i.imgur.com/hzbPHTZ.png)
+Przykład całki: <br>
+![alt text](https://i.imgur.com/hzbPHTZ.png)<br>
 Klasy reprezentujące metody całkowania:
 ```javascript
 class Trapez extends Thread
